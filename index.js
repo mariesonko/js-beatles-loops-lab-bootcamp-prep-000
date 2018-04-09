@@ -23,5 +23,5 @@ function iLoveTheBeatles(n){
     Myarray.push("I love the Beatles!")
     n++
   } while (n < 15)
-  return Myarray 
+  return Myarray
 }
